@@ -27,7 +27,6 @@ const connection = {
 
     ws.onmessage = (e) => {
       const msg = JSON.parse(e.data);
-      console.log('Received', e.data);
       this.store.dispatch(msg);
     };
 
