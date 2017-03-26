@@ -5,6 +5,9 @@
   "author": "Ranjan Shrestha",
   "private": true,
   "main": "main.js",
+  "scripts": {
+    "start-server": "node ./server/index.js"
+  },
   "dependencies": {
     "expo": "^15.0.2",
     "react": "~15.4.0",
