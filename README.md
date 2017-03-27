@@ -18,7 +18,7 @@ The xde could be downloaded from:
 
 You can also run this app using the Expo app using the following link
 
-> https://exp.host/@syaau/momo-demo
+> exp://rq-897.syaau.momo-demo.exp.direct
 
 This published app uses WebSocket server from 
 > https://demo.bhoos.com:8443/
