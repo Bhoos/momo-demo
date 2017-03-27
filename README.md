@@ -20,6 +20,8 @@ You can also run this app using the Expo app using the following link
 
 > exp://rq-897.syaau.momo-demo.exp.direct
 
+> ![QR Code](./momo-demo-expo.png)
+
 This published app uses WebSocket server from 
 > https://demo.bhoos.com:8443/
 
